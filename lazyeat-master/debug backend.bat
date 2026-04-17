@@ -1,2 +1,0 @@
-.\"Lazyeat Backend.exe"
-pause
