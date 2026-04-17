@@ -1,0 +1,5 @@
+pynput
+fastapi
+numpy
+uvicorn
+sounddevice

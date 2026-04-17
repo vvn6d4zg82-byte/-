@@ -1,0 +1,9 @@
+pynput
+fastapi
+opencv-python
+numpy
+uvicorn
+vosk
+pygrabber
+pyinstaller
+sounddevice

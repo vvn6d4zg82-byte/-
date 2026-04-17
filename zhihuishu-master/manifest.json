@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "智慧树刷课助手",
+  "description": "自动播放视频，1.5倍速，静音，自动下一集",
+  "version": "2.4",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "host_permissions": ["*://*.zhihuishu.com/*"]
+}

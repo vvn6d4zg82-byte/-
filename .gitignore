@@ -1,0 +1,30 @@
+# Special
+nul
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Build output
+dist/
+build/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Models (can be large)
+*.task
+*.tflite
+*.tgz

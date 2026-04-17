@@ -1,0 +1,7 @@
+Starting...
+Creating landmarker...
+Landmarker created
+Frame 1: detected 0 hands
+Frame 2: detected 0 hands
+Frame 3: detected 0 hands
+Frame 4: detected 0 hands
